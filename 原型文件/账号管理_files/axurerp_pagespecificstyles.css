@@ -1,0 +1,344 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../账号管理_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:84px;
+    top:41px;
+    width:707px;
+    height:423px;
+}
+
+#u0_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:713px;
+    height:429px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:204px;
+    width:703px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2 {
+    position:absolute;
+    left:115px;
+    top:75px;
+    width:150px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../账号管理_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:130px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u3_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:150px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../账号管理_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:130px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:148px;
+    height:144px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../账号管理_files/u3_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:288px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:150px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../账号管理_files/u5_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:288px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u9_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:148px;
+    height:144px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../账号管理_files/u3_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:446px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:154px;
+    height:150px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../账号管理_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:134px;
+    top:285px;
+    width:140px;
+    height:31px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:37px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../账号管理_files/u13_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:292px;
+    top:285px;
+    width:140px;
+    height:31px;
+}
+
+#u15_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:146px;
+    height:37px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:8px;
+    width:136px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../账号管理_files/u5_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:446px;
+    top:175px;
+    width:148px;
+    height:144px;
+}
+
+#u17_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:148px;
+    height:144px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:64px;
+    width:144px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
